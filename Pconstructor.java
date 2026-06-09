@@ -7,7 +7,7 @@ class Parameterized{
     this.name = name;
     }
     void display(){
-        System.out.println("ID: " + id +"Name: " + name);
+        System.out.println("ID: " + id + "  " + "Name: " + name);
     }
 }
 public class Pconstructor{
